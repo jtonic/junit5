@@ -6,8 +6,8 @@ target/
 
 ### IntelliJ IDEA ###
 .idea/*
-!.idea/runConfigurations/*.xml
-!.idea/httpRequests/**
+!.idea/runConfigurations/
+!.idea/httpRequests/
 *.iws
 *.iml
 *.ipr
